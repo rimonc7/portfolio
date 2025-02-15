@@ -25,14 +25,14 @@ const Education = () => {
             icon={<FaSchool className="text-3xl text-yellow-400" />}
             title="H.S.C (Science)"
             institution="Cantonment Public School & College, Rangpur"
-            year="2012"
+            year="2014"
             darkTheme={darkTheme}
           />
           <EducationCard
             icon={<FaSchool className="text-3xl text-yellow-400" />}
             title="S.S.C (Science)"
             institution="Cantonment Public School & College, Rangpur"
-            year="2014"
+            year="2012"
             darkTheme={darkTheme}
           />
         </div>

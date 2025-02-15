@@ -23,10 +23,10 @@ const AboutMe = () => {
 
         <h2 className={`text-2xl font-semibold mt-6 transition-all duration-300 ${darkTheme ? "text-gray-300" : "text-gray-800"}`}>🏆 Skills & Expertise</h2>
         <ul className={`list-disc list-inside transition-all duration-300 ${darkTheme ? "text-gray-400" : "text-gray-700"}`}>
-          <li><strong>Frontend:</strong> React.js, Next.js, HTML, CSS, JavaScript</li>
+          <li><strong>Frontend:</strong> React.js, HTML, CSS, JavaScript</li>
           <li><strong>Backend:</strong> Node.js, Express.js, MongoDB, REST APIs</li>
           <li><strong>SEO & Digital Marketing:</strong> Technical SEO, Keyword Research, Link Building</li>
-          <li><strong>Tools & Platforms:</strong> Git, GitHub, WordPress, Google Analytics, SEMrush</li>
+          <li><strong>Tools & Platforms:</strong> Git, GitHub, WordPress, Google Analytics, Ahref, SEMrush</li>
         </ul>
 
         <h2 className={`text-2xl font-semibold mt-6 transition-all duration-300 ${darkTheme ? "text-gray-300" : "text-gray-800"}`}>📩 Connect with Me</h2>
