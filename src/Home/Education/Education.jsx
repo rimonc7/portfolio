@@ -31,7 +31,7 @@ const Education = () => {
           <EducationCard
             icon={<FaSchool className="text-3xl text-yellow-400" />}
             title="S.S.C (Science)"
-            institution="Cantonment Public School & College, Rangpur"
+            institution="Police Lines School & College, Rangpur"
             year="2012"
             darkTheme={darkTheme}
           />
